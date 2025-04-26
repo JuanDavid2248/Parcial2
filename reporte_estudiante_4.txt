@@ -1,0 +1,7 @@
+Reporte de Calificaciones
+==========================
+ID: 4
+Nombre: Juan Chango
+Materia: Desarrollo web
+Calificación: 5.0
+Comentarios: No se q hago xd

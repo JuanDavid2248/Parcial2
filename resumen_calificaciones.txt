@@ -1,0 +1,4 @@
+Resumen de Calificaciones
+==========================
+ID: 4 | Nombre: Kevin | Materia: Arte | Calificación: 4.0 | Comentarios: MALO
+ID: 4 | Nombre: Kevin | Materia: Arte | Calificación: 4.0 | Comentarios: MALO
